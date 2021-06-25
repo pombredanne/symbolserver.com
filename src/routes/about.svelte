@@ -22,7 +22,7 @@
 	<h1>About Us</h1>
 
 	<p>
-		SymbolServer was build by ex-Microsoft employees who were constantly
+		SymbolServer was built by ex-Microsoft employees who were constantly
 		empowered to debug problems across all of Windows by using the internal
 		symbol and sources servers.
 	</p>
